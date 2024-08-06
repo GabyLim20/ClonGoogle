@@ -9,7 +9,7 @@ El presente proyecto es una simulación de la página principal de google desarr
 
 ## Proyecto para visualizar
 
-https://clonDeGoogle-gablim20.vercel.app/
+https://clondegoogle-gabylim20.vercel.app/
 
 ## Captura de pantalla
 ![Presentacion](assets/proyect.png)
